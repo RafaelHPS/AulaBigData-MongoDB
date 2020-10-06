@@ -1,5 +1,0 @@
-htop
-vim
-curl
-wget
-net-tools
